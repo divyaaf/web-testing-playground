@@ -6,7 +6,7 @@
 
 A intentionally designed, complex React web application built specifically to serve as a comprehensive target for **Quality Assurance (QA) Practice, Manual Testing, and End-to-End (E2E) Automation Testing**. 
 
-🌍 **Live Demo:** [Link to your GitHub Pages URL e.g., https://username.github.io/web-testing-playground]
+🌍 **Live Demo:** [https://username.github.io/web-testing-playground]
 
 ## 💡 Purpose
 This project is created to simulate real-world web application behaviors, including both standard functionalities and "tricky" edge cases that challenge test automation scripts. It serves as a personal portfolio piece to demonstrate testing methodologies, bug documentation, and automation scripting capabilities.
